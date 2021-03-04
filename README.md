@@ -1,2 +1,5 @@
 # tp1-matdis
-Trabalho Prático 1 da matéria de Matemática Discreta
+Português --
+Trabalho Prático 1 da matéria de Matemática Discreta.
+Inglês --
+First Discrete Mathematics project.
